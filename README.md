@@ -1,1 +1,1 @@
-# -gm-iphone-solo-pro
+# gm-iphone-solo-pro
